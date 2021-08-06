@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-22T18:45:43+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DeFacto</title><subtitle>Design Automation for Smart Factories</subtitle><author><name>Michele Lora</name></author><entry><title type="html">DeFacto will be at IEEE/ACM DATE 2021</title><link href="http://localhost:4000/blog/2020/date-ubooth/" rel="alternate" type="text/html" title="DeFacto will be at IEEE/ACM DATE 2021" /><published>2020-11-30T00:00:00+01:00</published><updated>2020-11-30T00:00:00+01:00</updated><id>http://localhost:4000/blog/2020/DATE-UBooth</id><content type="html" xml:base="http://localhost:4000/blog/2020/date-ubooth/">&lt;p&gt;DeFacto will be present at the IEEE/ACM Conference on Design Automation and Test in Europe 2021.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-05T19:12:41-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DeFacto</title><subtitle>Design Automation for Smart Factories</subtitle><author><name>Michele Lora</name></author><entry><title type="html">Conference paper accepted at FDL 2021</title><link href="http://localhost:4000/blog/2021/fdl2021/" rel="alternate" type="text/html" title="Conference paper accepted at FDL 2021" /><published>2021-07-30T00:00:00-07:00</published><updated>2021-07-30T00:00:00-07:00</updated><id>http://localhost:4000/blog/2021/FDL2021</id><content type="html" xml:base="http://localhost:4000/blog/2021/fdl2021/">&lt;p&gt;The paper titled &lt;strong&gt;Modeling in Industry 5.0: What Is There and What Is 
+Missing&lt;/strong&gt;, authored by &lt;em&gt;Sebastiano Gaiardelli&lt;/em&gt;, &lt;em&gt;Stefano Spellini&lt;/em&gt;, 
+&lt;em&gt;Michele Lora&lt;/em&gt; and &lt;em&gt;Franco Fummi&lt;/em&gt;, has been accepted at the
+&lt;a href=&quot;http://fdl-conference.org&quot; target=&quot;_blank&quot;&gt;2021 Forum on specification and Design Languages 
+(FDL)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Industry 4.0 trend speeds up the adoption of a variety of technologies. In
+modern manufacturing, system data are collected both from the field through
+sensors and by exploiting complex simulations. Data analysis techniques became
+crucial to build and maintain any efficient production line, while autonomous
+systems and robots are the main focus of researchers and practitioners.&lt;/p&gt;
+
+&lt;p&gt;This pervasive use of artificial intelligence derived technologies pushed humans
+to the border of production systems. Industry 5.0 aims at bringing the attention
+back to humans in production lines while magnifying their interactions with
+intelligent systems. This new trend will impact the design of future
+manufacturing infrastructures, increasing their complexity.&lt;/p&gt;
+
+&lt;p&gt;Engineers will need modeling and developing tools able to capture this
+complexity. In this paper, we analyze the modeling languages and tools being
+used, identifying their strengths and weaknesses. Then, we propose some possible
+directions to provide engineers with the expressive power needed to tackle the
+challenges posed by Industry 5.0.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">The paper titled Modeling in Industry 5.0: What Is There and What Is Missing, authored by Sebastiano Gaiardelli, Stefano Spellini, Michele Lora and Franco Fummi, has been accepted at the 2021 Forum on specification and Design Languages (FDL).</summary></entry><entry><title type="html">Conference paper accepted at ETFA 2021</title><link href="http://localhost:4000/blog/2021/etfa2021/" rel="alternate" type="text/html" title="Conference paper accepted at ETFA 2021" /><published>2021-07-07T00:00:00-07:00</published><updated>2021-07-07T00:00:00-07:00</updated><id>http://localhost:4000/blog/2021/ETFA2021</id><content type="html" xml:base="http://localhost:4000/blog/2021/etfa2021/">&lt;p&gt;The paper titled &lt;strong&gt;Enabling Component Reuse in Model-based System Engineering of
+Cyber-Physical Production Systems&lt;/strong&gt;, authored by &lt;em&gt;Stefano Spellini&lt;/em&gt;, &lt;em&gt;Sebastiano
+Gaiardelli&lt;/em&gt;, &lt;em&gt;Michele Lora&lt;/em&gt; and &lt;em&gt;Franco Fummi&lt;/em&gt;, has been accepted at the
+&lt;a href=&quot;https://2021.ieee-etfa.org/&quot; target=&quot;_blank&quot;&gt;26th IEEE International Conference on Emerging Technologies and Factory 
+Automation (ETFA 2021)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this work, we outline a design flow contemplating the reuse of already
+existing manufacturing lines’ models, while designing novel advanced production
+systems. To enable such a flow, we propose a methodology extracting
+System Modeling Language (SysML) structural diagrams from AutomationML descriptions.
+Then, we propose to design the system functionalities on top of the produced 
+diagrams.&lt;/p&gt;
+
+&lt;p&gt;The paper shows the application of the methodology to a concrete manufacturing
+line, the structure of which was originally modeled using AutomationML. To
+exemplify the advantages of the methodology, we exploit the models being
+generated to automatically extract a digital twin for the production system
+transportation line. The resulting digital twin is compliant with a well-known
+plant simulation tool.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">The paper titled Enabling Component Reuse in Model-based System Engineering of Cyber-Physical Production Systems, authored by Stefano Spellini, Sebastiano Gaiardelli, Michele Lora and Franco Fummi, has been accepted at the 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2021).</summary></entry><entry><title type="html">DeFacto will be at IEEE/ACM DATE 2021</title><link href="http://localhost:4000/blog/2020/date-ubooth/" rel="alternate" type="text/html" title="DeFacto will be at IEEE/ACM DATE 2021" /><published>2020-11-30T00:00:00-08:00</published><updated>2020-11-30T00:00:00-08:00</updated><id>http://localhost:4000/blog/2020/DATE-UBooth</id><content type="html" xml:base="http://localhost:4000/blog/2020/date-ubooth/">&lt;p&gt;DeFacto will be present at the IEEE/ACM Conference on Design Automation and Test in Europe 2021.
 We will present the results achieved so far at the University Booth of the Conference.&lt;/p&gt;
 
 &lt;p&gt;DATE 2021 will be held virtually between the 1st and the 5th of February 2021.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">DeFacto will be present at the IEEE/ACM Conference on Design Automation and Test in Europe 2021. We will present the results achieved so far at the University Booth of the Conference.</summary></entry></feed>
