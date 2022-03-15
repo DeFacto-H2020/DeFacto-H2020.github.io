@@ -1,44 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-05T19:43:50-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DeFacto</title><subtitle>Design Automation for Smart Factories</subtitle><author><name>Michele Lora</name></author><entry><title type="html">Conference paper accepted at FDL 2021</title><link href="http://localhost:4000/blog/2021/fdl2021/" rel="alternate" type="text/html" title="Conference paper accepted at FDL 2021" /><published>2021-07-30T00:00:00-07:00</published><updated>2021-07-30T00:00:00-07:00</updated><id>http://localhost:4000/blog/2021/FDL2021</id><content type="html" xml:base="http://localhost:4000/blog/2021/fdl2021/">&lt;p&gt;The paper titled &lt;strong&gt;Modeling in Industry 5.0: What Is There and What Is 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-15T14:46:18-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DeFacto</title><subtitle>Design Automation for Smart Factories</subtitle><author><name>Michele Lora</name></author><entry><title type="html">A DeFacto paper has been accepted at ISIE 2022</title><link href="http://localhost:4000/blog/2022/isie2022/" rel="alternate" type="text/html" title="A DeFacto paper has been accepted at ISIE 2022" /><published>2022-02-19T00:00:00-08:00</published><updated>2022-02-19T00:00:00-08:00</updated><id>http://localhost:4000/blog/2022/ISIE2022</id><content type="html" xml:base="http://localhost:4000/blog/2022/isie2022/">&lt;p class=&quot;text-justify&quot;&gt;The paper titled &lt;strong&gt;A Hierarchical Modeling Approach to Improve Scheduling of 
+Manufacturing Processes&lt;/strong&gt;, authored by &lt;em&gt;Sebastiano Gaiardelli&lt;/em&gt;, 
+&lt;em&gt;Stefano Spellini&lt;/em&gt;, &lt;em&gt;Michele Lora&lt;/em&gt; and &lt;em&gt;Franco Fummi&lt;/em&gt;, has been accepted at the
+&lt;a href=&quot;https://www.ieee-isie2022.org&quot; target=&quot;_blank&quot;&gt;2022 IEEE International Symposium on 
+Industrial Electronics (ISIE)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-justify&quot;&gt;Timely response to sudden production events and requirements shifts
+is a key feature of Industry 4.0. It requires
+techniques to manipulate and optimize the production processes,
+and components providing an high degree of reconfigurability.&lt;/p&gt;
+
+&lt;p class=&quot;text-justify&quot;&gt;To acknowledge to such demands, this paper presents a 
+multi-level and hierarchical approach to manufacturing processes modeling. 
+Models are structured to represent the production hierarchically: partitioning
+recipes in a set of tasks, allocated to 
+machines’ manufacturing services and expressed as a sequence of elementary actions.
+Then, we propose a run-time scheduling algorithm able to exploit the novel
+structure given to knowledge by the proposed modeling approach.
+The algorithm aims at minimizing the makespan while maximizing machines utilization.&lt;/p&gt;
+
+&lt;p class=&quot;text-justify&quot;&gt;We validate the contributions of this paper on a full-fledged production line. 
+The modeling strategy has been implemented in SysML: a well-known systems modeling language.
+The experiments show the presented model and the proposed scheduling approach 
+enabling a more precise and more performing control over the manufacturing process.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">The paper titled A Hierarchical Modeling Approach to Improve Scheduling of Manufacturing Processes, authored by Sebastiano Gaiardelli, Stefano Spellini, Michele Lora and Franco Fummi, has been accepted at the 2022 IEEE International Symposium on Industrial Electronics (ISIE)</summary></entry><entry><title type="html">Work-in-Progress and Demo of CHASE to be presented at the 2022 CPS-IoT Week</title><link href="http://localhost:4000/blog/2022/iccps-wip2022/" rel="alternate" type="text/html" title="Work-in-Progress and Demo of CHASE to be presented at the 2022 CPS-IoT Week" /><published>2022-02-16T00:00:00-08:00</published><updated>2022-02-16T00:00:00-08:00</updated><id>http://localhost:4000/blog/2022/ICCPS_WiP2022</id><content type="html" xml:base="http://localhost:4000/blog/2022/iccps-wip2022/">&lt;p class=&quot;text-justify&quot;&gt;A Work-in-Progress and demo about CHASE has been accepted at the 
+&lt;a href=&quot;http://www.cpsweek.org/&quot; target=&quot;_blank&quot;&gt;2022 CPS-IoT Week&lt;/a&gt;.
+The contribution authored by &lt;em&gt;Michele Lora&lt;/em&gt; and &lt;em&gt;Pierluigi Nuzzo&lt;/em&gt;, and
+titled &lt;strong&gt;A Contract-Based Requirement Engineering Framework for the
+Design of Industrial Cyber-Physical Systems&lt;/strong&gt;, is inserted in the program of
+the IEEE/ACM International Conference on Cyber-Physical Systems.&lt;/p&gt;
+
+&lt;p class=&quot;text-justify&quot;&gt;This work-in-progress paper presents our current effort toward the development 
+of compositional modeling formalisms and scalable algorithms for
+high-assurance design of industrial cyber-physical systems, with emphasis on
+smart manufacturing systems. A requirement engineering methodology is
+implemented within CHASE, a software framework supporting contract-based
+representations of systems and components to facilitate analysis and design
+space exploration. We provide an overview of CHASE and discuss its
+application to the design of a robotic arm.&lt;/p&gt;
+
+&lt;p class=&quot;text-justify&quot;&gt;This paper is accompanied by a poster describing the architecture of CHASE and
+a demonstration of its application to the case study.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">A Work-in-Progress and demo about CHASE has been accepted at the 2022 CPS-IoT Week. The contribution authored by Michele Lora and Pierluigi Nuzzo, and titled A Contract-Based Requirement Engineering Framework for the Design of Industrial Cyber-Physical Systems, is inserted in the program of the IEEE/ACM International Conference on Cyber-Physical Systems.</summary></entry><entry><title type="html">A DeFacto paper has been accepted at DATE 2022</title><link href="http://localhost:4000/blog/2021/date2022/" rel="alternate" type="text/html" title="A DeFacto paper has been accepted at DATE 2022" /><published>2021-11-11T00:00:00-08:00</published><updated>2021-11-11T00:00:00-08:00</updated><id>http://localhost:4000/blog/2021/DATE2022</id><content type="html" xml:base="http://localhost:4000/blog/2021/date2022/">&lt;p class=&quot;text-justify&quot;&gt;The paper titled &lt;strong&gt;A Software Architecture to Control Service-Oriented 
+Manufacturing Systems&lt;/strong&gt;, authored by &lt;em&gt;Sebastiano Gaiardelli&lt;/em&gt;, 
+&lt;em&gt;Stefano Spellini&lt;/em&gt;, &lt;em&gt;Marco Panato&lt;/em&gt;, and &lt;em&gt;Franco Fummi&lt;/em&gt;, has been accepted as
+an interactive presentation at the &lt;a href=&quot;https://https://www.date-conference.com&quot; target=&quot;_blank&quot;&gt;2022 IEEE/ACM Conference on Design
+Automation and Testing 
+in Europe (DATE)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;text-justify&quot;&gt;This paper presents a software architecture extending the classical automation pyramid
+to control and reconfigure flexible, service-oriented manufacturing systems.
+At the Planning level, the architecture requires 
+a Manufacturing Execution System (MES) consistent with the 
+International Society Automation (ISA) standard.
+Then, the Supervisory level is automated by introducing a novel component, called
+Automation Manager. 
+The new component interacts upward with the MES, and
+downward with a set of servers providing access to the manufacturing
+machines.
+The communication with machines relies on the OPC Unified Architecture (OPC UA)
+standard protocol, which allows exposing production tasks as
+``services’’.&lt;/p&gt;
+
+&lt;p class=&quot;text-justify&quot;&gt;The proposed software architecture has been prototyped to control a real
+production line, originally controlled by a commercial MES, unable to fully
+exploit the flexibility provided by the case study manufacturing system.
+Meanwhile, the proposed architecture is fully exploiting the production line’s
+flexibility.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">The paper titled A Software Architecture to Control Service-Oriented Manufacturing Systems, authored by Sebastiano Gaiardelli, Stefano Spellini, Marco Panato, and Franco Fummi, has been accepted as an interactive presentation at the 2022 IEEE/ACM Conference on Design Automation and Testing in Europe (DATE).</summary></entry><entry><title type="html">Conference paper accepted at FDL 2021</title><link href="http://localhost:4000/blog/2021/fdl2021/" rel="alternate" type="text/html" title="Conference paper accepted at FDL 2021" /><published>2021-07-30T00:00:00-07:00</published><updated>2021-07-30T00:00:00-07:00</updated><id>http://localhost:4000/blog/2021/FDL2021</id><content type="html" xml:base="http://localhost:4000/blog/2021/fdl2021/">&lt;p class=&quot;text-justify&quot;&gt;The paper titled &lt;strong&gt;Modeling in Industry 5.0: What Is There and What Is 
 Missing&lt;/strong&gt;, authored by &lt;em&gt;Sebastiano Gaiardelli&lt;/em&gt;, &lt;em&gt;Stefano Spellini&lt;/em&gt;, 
 &lt;em&gt;Michele Lora&lt;/em&gt; and &lt;em&gt;Franco Fummi&lt;/em&gt;, has been accepted at the
 &lt;a href=&quot;http://fdl-conference.org&quot; target=&quot;_blank&quot;&gt;2021 Forum on specification and Design Languages 
 (FDL)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The Industry 4.0 trend speeds up the adoption of a variety of technologies. In
+&lt;p class=&quot;text-justify&quot;&gt;The Industry 4.0 trend speeds up the adoption of a variety of technologies. In
 modern manufacturing, system data are collected both from the field through
 sensors and by exploiting complex simulations. Data analysis techniques became
 crucial to build and maintain any efficient production line, while autonomous
 systems and robots are the main focus of researchers and practitioners.&lt;/p&gt;
 
-&lt;p&gt;This pervasive use of artificial intelligence derived technologies pushed humans
+&lt;p class=&quot;text-justify&quot;&gt;This pervasive use of artificial intelligence derived technologies pushed humans
 to the border of production systems. Industry 5.0 aims at bringing the attention
 back to humans in production lines while magnifying their interactions with
 intelligent systems. This new trend will impact the design of future
 manufacturing infrastructures, increasing their complexity.&lt;/p&gt;
 
-&lt;p&gt;Engineers will need modeling and developing tools able to capture this
+&lt;p class=&quot;text-justify&quot;&gt;Engineers will need modeling and developing tools able to capture this
 complexity. In this paper, we analyze the modeling languages and tools being
 used, identifying their strengths and weaknesses. Then, we propose some possible
 directions to provide engineers with the expressive power needed to tackle the
-challenges posed by Industry 5.0.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">The paper titled Modeling in Industry 5.0: What Is There and What Is Missing, authored by Sebastiano Gaiardelli, Stefano Spellini, Michele Lora and Franco Fummi, has been accepted at the 2021 Forum on specification and Design Languages (FDL).</summary></entry><entry><title type="html">Conference paper accepted at ETFA 2021</title><link href="http://localhost:4000/blog/2021/etfa2021/" rel="alternate" type="text/html" title="Conference paper accepted at ETFA 2021" /><published>2021-07-07T00:00:00-07:00</published><updated>2021-07-07T00:00:00-07:00</updated><id>http://localhost:4000/blog/2021/ETFA2021</id><content type="html" xml:base="http://localhost:4000/blog/2021/etfa2021/">&lt;p&gt;The paper titled &lt;strong&gt;Enabling Component Reuse in Model-based System Engineering of
+challenges posed by Industry 5.0.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">The paper titled Modeling in Industry 5.0: What Is There and What Is Missing, authored by Sebastiano Gaiardelli, Stefano Spellini, Michele Lora and Franco Fummi, has been accepted at the 2021 Forum on specification and Design Languages (FDL).</summary></entry><entry><title type="html">Conference paper accepted at ETFA 2021</title><link href="http://localhost:4000/blog/2021/etfa2021/" rel="alternate" type="text/html" title="Conference paper accepted at ETFA 2021" /><published>2021-07-07T00:00:00-07:00</published><updated>2021-07-07T00:00:00-07:00</updated><id>http://localhost:4000/blog/2021/ETFA2021</id><content type="html" xml:base="http://localhost:4000/blog/2021/etfa2021/">&lt;p class=&quot;text-justify&quot;&gt;The paper titled &lt;strong&gt;Enabling Component Reuse in Model-based System Engineering of
 Cyber-Physical Production Systems&lt;/strong&gt;, authored by &lt;em&gt;Stefano Spellini&lt;/em&gt;, &lt;em&gt;Sebastiano
 Gaiardelli&lt;/em&gt;, &lt;em&gt;Michele Lora&lt;/em&gt; and &lt;em&gt;Franco Fummi&lt;/em&gt;, has been accepted at the
 &lt;a href=&quot;https://2021.ieee-etfa.org/&quot; target=&quot;_blank&quot;&gt;26th IEEE International Conference on Emerging Technologies and Factory 
 Automation (ETFA 2021)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;In this work, we outline a design flow contemplating the reuse of already
+&lt;p class=&quot;text-justify&quot;&gt;In this work, we outline a design flow contemplating the reuse of already
 existing manufacturing lines’ models, while designing novel advanced production
 systems. To enable such a flow, we propose a methodology extracting
 System Modeling Language (SysML) structural diagrams from AutomationML descriptions.
 Then, we propose to design the system functionalities on top of the produced 
 diagrams.&lt;/p&gt;
 
-&lt;p&gt;The paper shows the application of the methodology to a concrete manufacturing
+&lt;p class=&quot;text-justify&quot;&gt;The paper shows the application of the methodology to a concrete manufacturing
 line, the structure of which was originally modeled using AutomationML. To
 exemplify the advantages of the methodology, we exploit the models being
 generated to automatically extract a digital twin for the production system
 transportation line. The resulting digital twin is compliant with a well-known
-plant simulation tool.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">The paper titled Enabling Component Reuse in Model-based System Engineering of Cyber-Physical Production Systems, authored by Stefano Spellini, Sebastiano Gaiardelli, Michele Lora and Franco Fummi, has been accepted at the 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2021).</summary></entry><entry><title type="html">DeFacto will be at IEEE/ACM DATE 2021</title><link href="http://localhost:4000/blog/2020/date-ubooth/" rel="alternate" type="text/html" title="DeFacto will be at IEEE/ACM DATE 2021" /><published>2020-11-30T00:00:00-08:00</published><updated>2020-11-30T00:00:00-08:00</updated><id>http://localhost:4000/blog/2020/DATE-UBooth</id><content type="html" xml:base="http://localhost:4000/blog/2020/date-ubooth/">&lt;p&gt;DeFacto will be present at the IEEE/ACM Conference on Design Automation and Test in Europe 2021.
+plant simulation tool.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">The paper titled Enabling Component Reuse in Model-based System Engineering of Cyber-Physical Production Systems, authored by Stefano Spellini, Sebastiano Gaiardelli, Michele Lora and Franco Fummi, has been accepted at the 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2021).</summary></entry><entry><title type="html">DeFacto will be at IEEE/ACM DATE 2021</title><link href="http://localhost:4000/blog/2020/date-ubooth/" rel="alternate" type="text/html" title="DeFacto will be at IEEE/ACM DATE 2021" /><published>2020-11-30T00:00:00-08:00</published><updated>2020-11-30T00:00:00-08:00</updated><id>http://localhost:4000/blog/2020/DATE-UBooth</id><content type="html" xml:base="http://localhost:4000/blog/2020/date-ubooth/">&lt;p class=&quot;text-justify&quot;&gt;DeFacto will be present at the IEEE/ACM Conference on Design Automation and Test in Europe 2021.
 We will present the results achieved so far at the University Booth of the Conference.&lt;/p&gt;
 
-&lt;p&gt;DATE 2021 will be held virtually between the 1st and the 5th of February 2021.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">DeFacto will be present at the IEEE/ACM Conference on Design Automation and Test in Europe 2021. We will present the results achieved so far at the University Booth of the Conference.</summary></entry></feed>
+&lt;p class=&quot;text-justify&quot;&gt;DATE 2021 will be held virtually between the 1st and the 5th of February 2021.&lt;/p&gt;</content><author><name>Michele Lora</name></author><category term="Output" /><summary type="html">DeFacto will be present at the IEEE/ACM Conference on Design Automation and Test in Europe 2021. We will present the results achieved so far at the University Booth of the Conference.</summary></entry></feed>
